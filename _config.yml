@@ -1,15 +1,12 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 'Echo Chien'
+subtitle: 'Echo Chien'
+description: 'Echo Chien'
+keywords: 'Echo Chien'
+author: 'Echo Chien'
+language: 'zh-CN'
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
